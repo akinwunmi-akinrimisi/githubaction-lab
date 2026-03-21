@@ -12,4 +12,3 @@ This repository demonstrates GitHub Actions automation for Terraform deployments
 ## Resources Created
 
 - S3 Bucket with versioning enabled
-- as
